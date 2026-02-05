@@ -8,5 +8,6 @@ public class GettingStartedWithJava {
         System.out.println("Game Over");
         System.out.println("You win");
         System.out.println("Great progress!");
+        System.out.println("Exit");
     }
 }
